@@ -1,0 +1,2 @@
+
+pasisveikinimas = "Sveiki, brangieji"
